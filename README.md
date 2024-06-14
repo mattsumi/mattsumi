@@ -1,7 +1,5 @@
 <body>
 <h1 align="center"> Thank you for arriving onto my profile!</h1>
-<br>
-<br>
 <div>
     <h2 align="center"> About Me: </h2>
 </div>
