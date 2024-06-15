@@ -11,7 +11,7 @@
         <b>Nationality:</b> Wouldn't you like to know weather-boy?
     </li>
     <li>
-        <b>Hobbys:</b> J-pop, Older music, Cybersec. Video Games.
+        <b>Hobbies:</b> J-pop, Older music, Cybersec. Video Games.
     </li>
     <li>
         <b><i>Currently Working on my Bachelors.</i></b> 
