@@ -8,13 +8,13 @@
         <b>Name:</b> Matthew</li>
 	</li>
     <li>
-        <b>Nationality:</b> Wouldn't you like to know weather-boy?
+        <b>Nationality:</b> American
     </li>
     <li>
-        <b>Hobbies:</b> J-pop, Older music, Cybersec. Video Games.
+        <b>Hobbies:</b> Not quite sure ATM.
     </li>
     <li>
-        <b><i>Currently Working on my Bachelors.</i></b> 
+        <b><i>Currently Finishing my Bachlors in Cybersecurity and Ethical Hacking.</i></b> 
     </li>
     <br>
 </div>
