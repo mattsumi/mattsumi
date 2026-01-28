@@ -14,7 +14,7 @@
         <b>Hobbies:</b> Not quite sure ATM.
     </li>
     <li>
-        <b><i>Currently Finishing my Bachlors in Cybersecurity and Ethical Hacking.</i></b> 
+        <b><i>Completed!</i> Bachlors in Cybersecurity and Ethical Hacking.</i></b> 
     </li>
     <br>
 </div>
