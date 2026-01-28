@@ -36,7 +36,7 @@
     <h2 align="center"> Contact Me </h2>
     <br>
     <p align="center">If you need to contact me, contact me here:</p>
-    <p align="center"><a href="https://twitter.com/konekokurosawa" target="_blank"><img src="https://img.shields.io/badge/konekurosawa%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a href="https://github.com/mattsumi" target="_blank"><img src="https://img.shields.io/badge/konekurosawa-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
+    <p align="center"><a href="mailto:matthewtoro@live.com" target="_blank"><img src="https://img.shields.io/badge/matthewtoro@live.com-black?logo=gmail"/></a> <a href="https://github.com/mattsumi" target="_blank"><img src="https://img.shields.io/badge/konekurosawa-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
 </div>
 <br>
 <div>
