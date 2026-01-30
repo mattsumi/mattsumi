@@ -1,5 +1,5 @@
 <body>
-<h1 align="center"> Thank you for arriving onto my profile!</h1>
+<h1 align="center"> Thank you for visiting my profile!</h1>
 <div>
     <h2 align="center"> About Me: </h2>
 </div>
@@ -8,13 +8,10 @@
         <b>Name:</b> Matthew</li>
 	</li>
     <li>
-        <b>Nationality:</b> American
+        <b>Nationality:</b> US Citizen
     </li>
     <li>
-        <b>Hobbies:</b> Not quite sure ATM.
-    </li>
-    <li>
-        <b><i>Completed!</i> Bachlors in Cybersecurity and Ethical Hacking.</i></b> 
+        <b><i>Education:</i> Bachelor of Applied Science in Information Technology, Cybersecurity and Ethical Hacking</i></b> 
     </li>
     <br>
 </div>
